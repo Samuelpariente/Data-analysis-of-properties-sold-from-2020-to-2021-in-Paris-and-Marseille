@@ -1,6 +1,6 @@
-## Data-analysis-of-properties-sold-from-2020-to-2022-in-Paris-and-Marseille
+# Data-analysis-of-properties-sold-from-2020-to-2022-in-Paris-and-Marseille
 
-#I-  Structure du Notebook Jupyter 
+## I-  Structure du Notebook Jupyter 
 
 Au début de notre travail, nous avons réalisé que la base de données des demandes de valeurs foncières de 2021 contenait plusieurs valeurs nulles ou inutilisables. En effet, quand on regarde les 5 premières valeurs et les 5 dernières on remarque déjà que des colonnes ne sont remplit que de valeurs nulles. On a commencé par supprimer les colonnes avec beaucoup de valeurs nulles et qui ne nous intéressent pas pour notre étude. Il s’agissait de Code type local, No disposition, Type de voie, No voie, Nombre pièce principales, No plan, Code postal, voie et nombre de lots. Pour s’assurer qu’il n’y a pas de colonnes avec trop de valeurs nulles, nous avons utilisé algorithme qui supprime automatiquement les lignes avec plus de la moitié des valeurs égales à nulle.  
 
@@ -12,7 +12,7 @@ A l’issue de ces traitements, nous avons une base de données nettoyée et uti
 
 Après cette étape, nous organisons notre analyse en plusieurs catégories. Elles sont structurées dans un sens logique pour aller de l’analyse la plus générale (France entière) au cas le plus précis (Communes et départements). Premièrement, nous visualisons des graphiques expliquant la situation sur le territoire français dans sa globalité. Ce sont des analyses à l’échelle nationale qui se veulent le plus général possible. Elles servent surtout d’introduction et de remise en contexte. Ensuite, nous affichons quelques graphiques par région en prenant en compte certaines communes aux données importantes. Après cela, nous réalisons une étude comparative entre les départements. Elle nous permet de visualiser la situation immobilière de chacun des départements tout en la comparant avec le reste de la France. Après cela, nous réalisons une étude approfondie de deux villes françaises. Il s’agit de Paris et de Marseille. Dans les deux cas, nous commençons par une étude générale de la ville, pour avancer vers une comparaison entre arrondissements. Enfin, nous concluons en faisant une comparaison avec les données de 2020 sur l’échelle nationale, départementale, mais aussi sur les valeurs foncières des arrondissements parisien entre 2020 et 2021.  
 
-III-  Structure de l’application Django 
+## II-  Structure de l’application Django 
 
 Notre projet Django est composé de 7 applications ayant chacune des thématiques. Nous les répertorions dans le tableau suivant : 
 
