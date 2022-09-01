@@ -1,6 +1,6 @@
 # Data-analysis-of-properties-sold-from-2020-to-2022-in-Paris-and-Marseille-
 
-Langage Python – Rapport Projet TD 9 et 10 ![](Aspose.Words.476ec148-4115-4cee-a66b-472225a57c1b.001.png)
+Langage Python – Rapport Projet TD 9 et 10 ![](Ressources/Aspose.Words.476ec148-4115-4cee-a66b-472225a57c1b.001.png)
 
 *Par Pariente Samuel, Maurice Edouard, Ortega Marius ![](Aspose.Words.476ec148-4115-4cee-a66b-472225a57c1b.002.png)*
 
