@@ -1,6 +1,6 @@
 # Data-analysis-of-properties-sold-from-2020-to-2022-in-Paris-and-Marseille-
 
-Langage Python – Rapport Projet TD 9 et 10 ![](Ressources/Aspose.Words.476ec148-4115-4cee-a66b-472225a57c1b.001.png)
+Langage Python – Rapport Projet TD 9 et 10 ![](Aspose.Words.476ec148-4115-4cee-a66b-472225a57c1b.001.png)
 
 *Par Pariente Samuel, Maurice Edouard, Ortega Marius ![](Aspose.Words.476ec148-4115-4cee-a66b-472225a57c1b.002.png)*
 
@@ -35,7 +35,7 @@ Notre projet Django est composé de 7 applications ayant chacune des thématique
 |marseille |marseille/ |Page répertoriant nos résultats sur des données de Marseille en 2021. |
 |paris |paris/ |Page depuis laquelle sont accessible les deux applications en rapport avec Paris. Soit ‘parisOthers’ et ‘mapParis’. |
 |parisOthers |parisOthers/ |Page répertoriant nos résultats sur des données de Paris en 2021 excepté la carte dynamique mentionnée plus haut. |
-***Note importante :  ![](Aspose.Words.476ec148-4115-4cee-a66b-472225a57c1b.003.png)***
+***Note importante :  ![](Ressources/Aspose.Words.476ec148-4115-4cee-a66b-472225a57c1b.003.png)***
 
 Afin de lancer notre site, vous devez taper l’adresse suivante dans votre moteur de rechercher : 
 
@@ -43,7 +43,7 @@ Afin de lancer notre site, vous devez taper l’adresse suivante dans votre mote
 
 Dans l’optique de mieux se représenter la structure visible côté utilisateur, nous vous proposons ci- après un diagramme résumant quelles pages sous accessible à partir d’une autre : 
 
-![](Aspose.Words.476ec148-4115-4cee-a66b-472225a57c1b.004.jpeg)
+![](Ressources/Aspose.Words.476ec148-4115-4cee-a66b-472225a57c1b.004.jpeg)
 
 IV-  Conclusion 
 
